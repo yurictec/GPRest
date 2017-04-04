@@ -16,7 +16,6 @@ import javax.ws.rs.core.Response;
 import java.util.List;
 
 @RestController
-@ComponentScan("task")
 public class TestController {
 
     private static final Logger LOGGER = Logger.getLogger(TestController.class.getName());
