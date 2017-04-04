@@ -4,7 +4,9 @@
 Install
 
 $ git clone https://github.com/yurictec/GPRest.git
+
 $ cd GPRest
+
 $ mvn install
 
 
