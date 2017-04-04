@@ -1,0 +1,202 @@
+[
+  {
+    "date": "01.04",
+    "session": {
+      "id": "10",
+      "filmName": "Terminator",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "02.04",
+    "session": {
+      "id": "11",
+      "filmName": "Interstellar",
+      "time": "21:00",
+      "freePlaces": 98,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "03.04",
+    "session": {
+      "id": "12",
+      "filmName": "Pulp Faction",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "05.04",
+    "session": {
+      "id": "13",
+      "filmName": "Blow",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "06.04",
+    "session": {
+      "id": "14",
+      "filmName": "Rock-n-Rolla",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "07.04",
+    "session": {
+      "id": "15",
+      "filmName": "Malena",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "08.04",
+    "session": {
+      "id": "16",
+      "filmName": "3:10 to Yuma",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "09.04",
+    "session": {
+      "id": "17",
+      "filmName": "The Green Mile",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "10.04",
+    "session": {
+      "id": "18",
+      "filmName": "Forrest Gump",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "11.04",
+    "session": {
+      "id": "19",
+      "filmName": "Schindler's list",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "12.04",
+    "session": {
+      "id": "20",
+      "filmName": "Inception",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "13.04",
+    "session": {
+      "id": "21",
+      "filmName": "Leon",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "14.04",
+    "session": {
+      "id": "22",
+      "filmName": "Fight Club",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "15.04",
+    "session": {
+      "id": "23",
+      "filmName": "The Godfather",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "16.04",
+    "session": {
+      "id": "24",
+      "filmName": "Gladiator",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "17.04",
+    "session": {
+      "id": "25",
+      "filmName": "The Pianist",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "18.04",
+    "session": {
+      "id": "26",
+      "filmName": "Back to the Future",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "19.04",
+    "session": {
+      "id": "27",
+      "filmName": "The Matrix",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "20.04",
+    "session": {
+      "id": "28",
+      "filmName": "Shutter Island",
+      "time": "19:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  },
+  {
+    "date": "21.04",
+    "session": {
+      "id": "29",
+      "filmName": "Titanic",
+      "time": "21:00",
+      "freePlaces": 100,
+      "allPlaces": 100
+    }
+  }
+]
